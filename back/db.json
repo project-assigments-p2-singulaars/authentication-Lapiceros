@@ -1,19 +1,14 @@
 {
   "users": [
     {
-      "email": "pepitoelchocolatero@xtec.cat",
-      "password": "$2a$10$750nC0178chMP0QmEBUHButuiOcnkjCvnH2Lzszn6dOo0myW03zSK",
+      "email": "test@test.com",
+      "password": "$2a$10$eimSJrzR0kiwMvTteXXHleYmNdrcglBYUz9Qj4TxOdfOElDhJ0sVm",
       "id": 1
     },
     {
-      "email": "asad@xtec.cat",
-      "password": "$2a$10$lw5/imtXlA04.jIT9lLScOaplf5F6.4dflTVdsAcyzzA7vCsVSSvC",
+      "email": "santi@santi.com",
+      "password": "$2a$10$bj/xWkaBBwDqYHNYMv4Ii.JkIniad/tUwvoUUwVXZBsXGxWniTiBe",
       "id": 2
-    },
-    {
-      "email": "hulio@huliatzo.dev",
-      "password": "$2a$10$N3LLYwsMHGKzRlseD4StEOPCAaVYN3EliWp/OHHBJ4nNlHxwbD/EG",
-      "id": 3
     }
   ]
 }

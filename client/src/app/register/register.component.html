@@ -1,9 +1,8 @@
-<h2>Login page</h2>
-<form [formGroup]="loginForm" (ngSubmit)="submit()">
+<h2>Register</h2>
+<form [formGroup]="registerForm" (ngSubmit)="submit()">
+    
     <input required type="email" placeholder="email" formControlName="email">
     <input required type="password" placeholder="password" formControlName="password">
+    
     <button type="submit">Submit</button>
 </form>
-
-<p>si no tienes cuenta te puedes registrar con el siguiente enlace</p>
-<a routerLink="/register">Registrarse</a>
